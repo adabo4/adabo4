@@ -1,10 +1,10 @@
-- 👋 Hi, I'm Adriana!
-- 👀 I'm interested in software testing, quality assurance, and web development.
-- 🧪 I'm currently focusing on manual testing, test case design, bug reporting, and test automation with Cypress.
-- 💻 I have hands-on experience building web applications using JavaScript, TypeScript, React, and Next.js.
-- 🌱 I'm continuously improving my QA skills and exploring new testing tools and techniques.
-- 🤝 I'm open to opportunities where I can learn, contribute, and grow as a Software Tester.
-- 📫 How to reach me: ada.bohunicka@gmail.com
+### 👋 Hi, I'm Adriana!
+
+- 💻 I'm interested in software development and quality assurance.
+- 🚀 I have hands-on experience with JavaScript, TypeScript, React, Next.js, and backend development.
+- 🧪 I also work with manual and automated testing, including Cypress and Postman.
+- 🌱 I'm continuously learning and improving my development and testing skills.
+- 📫 Reach me at: [ada.bohunicka@gmail.com](mailto:ada.bohunicka@gmail.com)
   
 <!---
 adabo4/adabo4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
